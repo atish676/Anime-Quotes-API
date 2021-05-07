@@ -1,0 +1,29 @@
+body {
+    background-color: #ccc;
+    margin: 0px 250px;
+    padding: 0;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1 {
+    font-size: 80px;
+    padding: 90px;
+    color: rebeccapurple;
+}
+
+h2 {
+    font-size: 50px;
+    color: darkred;
+}
+
+h3 {
+    font-size: 30px;
+    margin-left: 600px;
+}
+
+quote {
+    font-size: 25px;
+    letter-spacing: .2rem;
+    padding: 20px;
+}
